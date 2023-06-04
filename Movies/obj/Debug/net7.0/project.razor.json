@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\webapp.csproj",
+  "SerializedFilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Movies.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,41 +18642,41 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "webapp",
+  "RootNamespace": "Movies",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\webapp\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bidhi\\Desktop\\Web Development\\Movies\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
